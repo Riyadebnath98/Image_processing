@@ -1,9 +1,9 @@
+Flask
 torch
 torchvision
 numpy
 pillow
-matplotlib
-tqdm
-opencv-python
 scikit-image
-streamlit
+flask-cors
+werkzeug
+gunicorn
