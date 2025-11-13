@@ -1,7 +1,7 @@
 import React from "react";
 import sample1Gray from "../assets/samples/sample1_gray.jpg";
 import sample1Color from "../assets/samples/sample1_color.jpg";
-import sample2Gray from "../assets/samples/sample2_gray.jpg";
+import sample2Gray from "../assets/samples/sample2_gray.png";
 import sample2Color from "../assets/samples/sample2_color.jpg";
 export default function Sample() {
   return (
